@@ -1,4 +1,4 @@
-# 🧠 HydrocephalusGPT
+# 🧠 HydrocephalusGPT - ⚠️ Server is suspended now!
 
 Project <ins> without practical benefits</ins>, just [Gemini 2.5 Flash](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-flash) visual realization.
 
